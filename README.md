@@ -6,7 +6,7 @@ Este fork do aluraflix tem o intuito de solucionar o challenger de DevOps.
  - Dockerfile
  - docker-compose.yml
 
-# Aruivos Alterados 
+# Arquivos Alterados 
  - setup.py : Database de sql3 para postgresql
  - requirements.txt : Inserção da dependência psycopg2>=2.8
 
