@@ -15,10 +15,12 @@ Este fork do aluraflix tem o intuito de solucionar o challenger de DevOps.
 https://docs.docker.com/samples/django
  - 
 
-# Em estudo:
+# - Em estudo -:
 Gerar a imagem dos arquivos do github diretamente para a máquina.
 
 docker build -t <escolha-um-nome> https://github.com/FabioMatech/challengerDevOps-AluraFlix.git#projeto_inicial
  - Exemplo: docker build -t aluraflix https://github.com/FabioMatech/challengerDevOps-AluraFlix.git#projeto_inicial
+ 
+ # -- Curso Realizado --
 
  https://cursos.alura.com.br/user/clubeteczagem/course/docker-criando-gerenciando-containers/certificate
