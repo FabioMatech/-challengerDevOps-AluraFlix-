@@ -18,7 +18,6 @@ https://docs.docker.com/samples/django
 # - Em estudo -:
 Gerar a imagem dos arquivos do github diretamente para a máquina.
 
-docker build -t <escolha-um-nome> https://github.com/FabioMatech/challengerDevOps-AluraFlix.git#projeto_inicial
  - Exemplo: docker build -t aluraflix https://github.com/FabioMatech/challengerDevOps-AluraFlix.git#projeto_inicial
  
  # -- Curso Realizado --
