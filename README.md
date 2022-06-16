@@ -31,7 +31,7 @@ terminal 2, passos:
  5. python manage.py createsuperuser
 
 Acesse a aplicação em :
-h[ttp://0.0.0.0.8000
+http://0.0.0.0.8000
  
  
  # Curso Realizado 
