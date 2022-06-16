@@ -25,10 +25,13 @@ Terminal 1, passo:
 
 terminal 2, passos:
  1. docker ps
- 2. docker exec -it [CONTAINER ID]  /bin/bash
+ 2. docker exec -it [CONTAINER ID (da aplicação)]  /bin/bash
  3. python manage.py makemigrations
  4. python manage.py migrate
  5. python manage.py createsuperuser
+
+Acesse a aplicação em :
+h[ttp://0.0.0.0.8000
  
  
  # Curso Realizado 
