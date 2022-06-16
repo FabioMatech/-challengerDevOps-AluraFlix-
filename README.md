@@ -17,6 +17,7 @@ https://docs.docker.com/samples/django
 
 #  Uso 
  - git clone https://github.com/FabioMatech/challengerDevOps-AluraFlix.git
+
 Na pasta do projeto usar o comando:
  - docker-compose up
  - 
