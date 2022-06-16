@@ -23,7 +23,7 @@ Com o terminal na pasta do projeto usar o comando:
 
 Em outro terminal:
 - docker ps
-- docker exec -it <CONTAINER ID> /bin/bash
+- docker exec -it [CONTAINER ID]  /bin/bash
 - python manage.py makemigrations
 - python manage.py migrate
 - python manage.py createsuperuser
