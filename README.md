@@ -18,10 +18,12 @@ https://docs.docker.com/samples/django
 #  Uso 
  - git clone https://github.com/FabioMatech/challengerDevOps-AluraFlix.git
 
-Com o terminal na pasta do projeto usar o comando:
+Na  oasta do projeto: Utilize dois terminais abertos.
+
+Terminal 1:
  - docker-compose up
 
-Em outro terminal:
+terminal 2:
 - docker ps
 - docker exec -it [CONTAINER ID]  /bin/bash
 - python manage.py makemigrations
