@@ -24,11 +24,11 @@ Terminal 1, passo:
  - docker-compose up
 
 terminal 2, passos:
-1 docker ps
-2 docker exec -it [CONTAINER ID]  /bin/bash
-3 python manage.py makemigrations
-4 python manage.py migrate
-5 python manage.py createsuperuser
+ 1. docker ps
+ 2. docker exec -it [CONTAINER ID]  /bin/bash
+ 3. python manage.py makemigrations
+ 4. python manage.py migrate
+ 5. python manage.py createsuperuser
  
  
  # Curso Realizado 
