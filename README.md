@@ -20,7 +20,14 @@ https://docs.docker.com/samples/django
 
 Na pasta do projeto usar o comando:
  - docker-compose up
- - 
+
+Em outro terminal:
+- docker ps
+- docker exec -it <CONTAINER ID> /bin/bash
+- python manage.py makemigrations
+- python manage.py migrate
+- python manage.py createsuperuser
+ 
  
  # Curso Realizado 
  https://cursos.alura.com.br/user/clubeteczagem/course/docker-criando-gerenciando-containers/certificate
