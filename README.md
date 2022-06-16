@@ -7,7 +7,7 @@ Este fork do aluraflix tem o intuito de solucionar o challenger de DevOps.
  - docker-compose.yml
 
 # Arquivos Alterados 
- - setup.py : Database de sql3 para postgresql
+ - setup.py : Database de sql3 para postgresql && ALLOWED_HOSTS = ['0.0.0.0:8000]
  - requirements.txt : Inserção da dependência psycopg2>=2.8
 
 
@@ -18,7 +18,7 @@ https://docs.docker.com/samples/django
 #  Uso 
  - git clone https://github.com/FabioMatech/challengerDevOps-AluraFlix.git
 
-Na  oasta do projeto: Utilize dois terminais abertos.
+Na  pasta do projeto: Utilize dois terminais abertos.
 
 Terminal 1, passo:
  - docker-compose up
