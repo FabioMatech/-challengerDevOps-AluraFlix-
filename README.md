@@ -28,9 +28,7 @@ Após o docker-compose up, subir os arquivos e dependências.
 Terminal 2, passos:
  1. docker ps
  2. docker exec -it [CONTAINER ID (da aplicação)]  /bin/bash
- 3. python manage.py makemigrations
- 4. python manage.py migrate
- 5. python manage.py createsuperuser
+ 3. python manage.py createsuperuser
 
 Acesse a aplicação em :
 http://0.0.0.0.8000
