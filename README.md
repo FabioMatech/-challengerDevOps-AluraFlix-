@@ -30,8 +30,7 @@ Terminal 2, passos:
  2. docker exec -it [CONTAINER ID (da aplicação)]  /bin/bash
  3. python manage.py createsuperuser
 
-Acesse a aplicação em :
-http://0.0.0.0.8000
+Acesse a aplicação em : http://localhost:8000 ou http://0.0.0.0.8000
  
  
  # Curso Realizado 
