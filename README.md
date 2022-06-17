@@ -24,7 +24,8 @@ Terminal 1, passo:
  - docker-compose up
 
 Após o docker-compose up, subir os arquivos e dependências.
-terminal 2, passos:
+
+Terminal 2, passos:
  1. docker ps
  2. docker exec -it [CONTAINER ID (da aplicação)]  /bin/bash
  3. python manage.py makemigrations
