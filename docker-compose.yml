@@ -22,3 +22,18 @@ services:
       - POSTGRES_PASSWORD=postgres
     depends_on:
       - db
+  
+  migration:
+    build: .
+    image: aluraflix-api
+    command: python manage.py migrate --noinput
+    volumes:
+      - .:/code
+    ports:
+      - "3000:3000"
+    environment:
+      - POSTGRES_NAME=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    depends_on:
+         - db
