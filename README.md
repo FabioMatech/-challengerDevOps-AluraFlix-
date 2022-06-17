@@ -20,6 +20,7 @@ https://docs.docker.com/samples/django
 
 Na  pasta do projeto: Utilize dois terminais abertos.
 
+Após o docker-compose up, subir os arquivos e dependências.
 Terminal 1, passo:
  - docker-compose up
 
