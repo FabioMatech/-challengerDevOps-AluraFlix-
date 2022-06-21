@@ -16,7 +16,9 @@ https://docs.docker.com/samples/django
  - 
 
 ##  Uso 
- - git clone https://github.com/FabioMatech/challengerDevOps-AluraFlix.git
+ ```
+ git clone https://github.com/FabioMatech/challengerDevOps-AluraFlix.git
+ ```
 
 Na  pasta do projeto: Utilize dois terminais abertos.
 
@@ -27,11 +29,21 @@ docker-compose up
 Após o docker-compose up, subir os arquivos e dependências.
 
 Terminal 2, passos:
+1 . 
+```
+docker ps
+```
+2. 
  ```
- docker ps
  docker exec -it [CONTAINER ID (da aplicação)]  /bin/bash
- python manage.py migrate
- python manage.py createsuperuser
+ ```
+ 3.
+ ```
+ python manage.py migrate 
+ ```
+ 4. 
+```
+python manage.py createsuperuser
  ```
 
 Acesse a aplicação em : http://localhost:8000 ou http://0.0.0.0.8000
