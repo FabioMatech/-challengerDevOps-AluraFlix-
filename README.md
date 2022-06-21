@@ -67,10 +67,17 @@ https://docs.docker.com/samples/django
  - 
 # Certificados: 
 [- Docker: criando e gerenciando containers](https://cursos.alura.com.br/user/clubeteczagem/course/docker-criando-gerenciando-containers/certificate)
+
 [- Google cloud engineer: Parte 1](https://cursos.alura.com.br/user/clubeteczagem/course/google-cloud-engineer-certificacao-parte1/certificate)
+
 [-Certificação Linux LPI Essentials parte 1: Evolution and Distributions](https://cursos.alura.com.br/user/clubeteczagem/course/linux-essentials-1/certificate)
+
 [- Certificação Linux LPI Essentials parte 2: Open Source Software and Licensing](https://cursos.alura.com.br/user/clubeteczagem/course/linux-essentials-2/certificate)
+
 [- Deploy no Amazon EC2: alta disponibilidade e escalabilidade de uma aplicação](https://cursos.alura.com.br/user/clubeteczagem/course/amazon-ec2-disponibilidade-escalabilidade/certificate)
+
 [- PostgreSQL](https://cursos.alura.com.br/user/clubeteczagem/course/introducao-postgresql-primeiros-passos/certificate)
+
 [- HTTP: Entendendo a web por baixo dos panos](https://cursos.alura.com.br/user/clubeteczagem/course/http-fundamentos/certificate)
+
 [- Redes parte 1: conceitos e prática](https://cursos.alura.com.br/user/clubeteczagem/course/redes-introducao/certificate)
