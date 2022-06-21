@@ -11,13 +11,18 @@ Este fork do aluraflix tem o intuito de solucionar o challenger de DevOps.
  - requirements.txt : Inserção da dependência psycopg2>=2.8
 
 ##  Uso:
- ```
- git clone https://github.com/FabioMatech/challengerDevOps-AluraFlix.git
- ```
 
-Na  pasta do projeto: Utilize dois terminais abertos.
+Utilize preferencialmente dois terminais 
 
 Terminal 1:
+
+1. 
+
+```
+ git clone https://github.com/FabioMatech/challengerDevOps-AluraFlix.git
+ ```
+2.
+
 ```
 docker-compose up
 ```
