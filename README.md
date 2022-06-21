@@ -29,6 +29,7 @@ docker-compose up
 Após o docker-compose up, subir os arquivos e dependências.
 
 Terminal 2:
+
 1 . 
 ```
 docker ps
