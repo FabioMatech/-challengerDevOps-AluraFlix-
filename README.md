@@ -1,5 +1,5 @@
-# challengerDevOps-AluraFlix
-Desenvolvendo o challenger alura de DevOps. AluraFlix.
+# challengeDevOps-AluraFlix
+Desenvolvendo o challenge alura de DevOps. AluraFlix.
 Este fork do aluraflix tem o intuito de solucionar o challenger de DevOps.
 
 ## Arquivos inseridos
