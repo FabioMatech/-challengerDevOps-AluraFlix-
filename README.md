@@ -21,7 +21,7 @@ Terminal 1:
 ```
  git clone https://github.com/FabioMatech/challengerDevOps-AluraFlix.git
  ```
-2.
+2.Na pasta do mesmo nível do projeto.
 
 ```
 docker-compose up
