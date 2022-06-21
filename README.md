@@ -22,13 +22,13 @@ https://docs.docker.com/samples/django
 
 Na  pasta do projeto: Utilize dois terminais abertos.
 
-Terminal 1, passo:
+Terminal 1:
 ```
 docker-compose up
 ```
 Após o docker-compose up, subir os arquivos e dependências.
 
-Terminal 2, passos:
+Terminal 2:
 1 . 
 ```
 docker ps
@@ -37,7 +37,7 @@ docker ps
  ```
  docker exec -it [CONTAINER ID (da aplicação)]  /bin/bash
  ```
- 3.
+ 3. Dentro da aplicação inserir as migrações e criar o super usuário.
  ```
  python manage.py migrate 
  ```
