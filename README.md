@@ -49,6 +49,22 @@ python manage.py createsuperuser
 
 Acesse a aplicação em : http://localhost:8000 ou http://0.0.0.0.8000
  
- 
- # Curso Realizado 
+# Breve Resumo
+## (Etapa 1) Semana 1: Criando containers
+
+Nesta primeira etapa construimos as imagens, e os conteiners para aplicação e banco de dados postegresql, elaborando o Dockerfile, o orquestrador docker-compose.
+
+Para maiores informações acesse: [Alura Challenge DevOps: Semana 1](https://www.alura.com.br/challenges/devops/semana-01-criando-containers) 
+
+## (Etapa 2) Semana 02: Deploy na Cloud
+
+Nesta segunda etapa colocamos as imagens e containers em nuvem, escolhi para isto o google cloud, onde foi criada uma instância de VM rodando em Ubuntu  Ubuntu 22.04 LTS (Jammy Jellyfish) e utillizado os passos descritos na seção "uso".
+
+Para maiores informações acesse: [Alura Challenge DevOps: Semana 2](https://www.alura.com.br/challenges/devops/semana-02-deploy-na-cloud)
+
+## (Etapa 3 e 4) Semana 03 e 04: Integração e entrega contínua
+Em execução
+Para maiores informações acesse: [Alura Challenge DevOps: Semana 3 e 4](https://www.alura.com.br/challenges/devops/semana-03-04-integracao-e-entrega-continua)
+
+# Curso Realizado 
  https://cursos.alura.com.br/user/clubeteczagem/course/docker-criando-gerenciando-containers/certificate
