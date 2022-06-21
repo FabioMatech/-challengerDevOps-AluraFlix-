@@ -27,17 +27,10 @@ Terminal 2:
 
 1 . 
 ```
-docker ps
-```
+sudo docker-compose exec web python manage.py migrate
+ 
+ ```
 2. 
- ```
- docker exec -it [CONTAINER ID (da aplicação)]  /bin/bash
- ```
- 3. Dentro da aplicação inserir as migrações e criar o super usuário.
- ```
- python manage.py migrate 
- ```
- 4. 
 ```
 python manage.py createsuperuser
  ```
