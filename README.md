@@ -22,12 +22,12 @@ Na  pasta do projeto: Utilize dois terminais abertos.
 
 Terminal 1, passo:
 ```
- - docker-compose up
+docker-compose up
 ```
 Após o docker-compose up, subir os arquivos e dependências.
 
 Terminal 2, passos:
- 1. docker ps
+ 1. ```docker ps```
  2. docker exec -it [CONTAINER ID (da aplicação)]  /bin/bash
  3. python manage.py migrate
  4. python manage.py createsuperuser
