@@ -27,12 +27,12 @@ Terminal 2:
 
 1 . 
 ```
-sudo docker-compose exec web python manage.py migrate
+docker-compose exec web python manage.py migrate
  
  ```
 2. 
 ```
-python manage.py createsuperuser
+docker-compose exec web python manage.py createsuperuser
  ```
 
 Acesse a aplicação em : http://localhost:8000 ou http://0.0.0.0.8000
