@@ -53,7 +53,7 @@ Para maiores informações acesse: [Alura Challenge DevOps: Semana 1](https://ww
 
 ## (Etapa 2) Semana 02: Deploy na Cloud
 
-Nesta segunda etapa colocamos as imagens e containers em nuvem, escolhi para isto o google cloud, onde foi criada uma instância de VM rodando em Ubuntu 22.04 LTS (Jammy Jellyfish) e utillizado os passos descritos na seção "uso".
+Nesta segunda etapa colocamos as imagens e containers em nuvem, escolhi para isto o google cloud, onde foi criada uma instância de VM rodando em Ubuntu 22.04 LTS (Jammy Jellyfish), após realizada a instalação do git, docker e docker-compose foram utillizados os passos descritos na seção "uso".
 
 Para maiores informações acesse: [Alura Challenge DevOps: Semana 2](https://www.alura.com.br/challenges/devops/semana-02-deploy-na-cloud)
 
@@ -77,6 +77,8 @@ https://docs.docker.com/samples/django
 [- Deploy no Amazon EC2: alta disponibilidade e escalabilidade de uma aplicação](https://cursos.alura.com.br/user/clubeteczagem/course/amazon-ec2-disponibilidade-escalabilidade/certificate)
 
 [- PostgreSQL](https://cursos.alura.com.br/user/clubeteczagem/course/introducao-postgresql-primeiros-passos/certificate)
+
+[- Git e Github: controle e compartilhe seu código](https://cursos.alura.com.br/user/clubeteczagem/course/git-github-controle-de-versao/certificate)
 
 [- HTTP: Entendendo a web por baixo dos panos](https://cursos.alura.com.br/user/clubeteczagem/course/http-fundamentos/certificate)
 
