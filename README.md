@@ -65,7 +65,7 @@ Para maiores informações acesse: [Alura Challenge DevOps: Semana 3 e 4](https:
 ## Referência:
 https://docs.docker.com/samples/django
  - 
-# Certificados: 
+# Certificados na plataforma alura: 
 [- Docker: criando e gerenciando containers](https://cursos.alura.com.br/user/clubeteczagem/course/docker-criando-gerenciando-containers/certificate)
 
 [- Google cloud engineer: Parte 1](https://cursos.alura.com.br/user/clubeteczagem/course/google-cloud-engineer-certificacao-parte1/certificate)
