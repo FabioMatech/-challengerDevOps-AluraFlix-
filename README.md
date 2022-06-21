@@ -10,12 +10,7 @@ Este fork do aluraflix tem o intuito de solucionar o challenger de DevOps.
  - setup.py : Database de sql3 para postgresql && ALLOWED_HOSTS = ['*']
  - requirements.txt : Inserção da dependência psycopg2>=2.8
 
-
-## Referência 
-https://docs.docker.com/samples/django
- - 
-
-##  Uso 
+##  Uso:
  ```
  git clone https://github.com/FabioMatech/challengerDevOps-AluraFlix.git
  ```
@@ -49,7 +44,7 @@ python manage.py createsuperuser
 
 Acesse a aplicação em : http://localhost:8000 ou http://0.0.0.0.8000
  
-# Breve Resumo
+# Breve Resumo:
 ## (Etapa 1) Semana 1: Criando containers
 
 Nesta primeira etapa construimos as imagens, e os conteiners para aplicação e banco de dados postegresql, elaborando o Dockerfile, o orquestrador docker-compose.
@@ -67,5 +62,15 @@ Em execução
 
 Para maiores informações acesse: [Alura Challenge DevOps: Semana 3 e 4](https://www.alura.com.br/challenges/devops/semana-03-04-integracao-e-entrega-continua)
 
-# Curso Realizado 
- https://cursos.alura.com.br/user/clubeteczagem/course/docker-criando-gerenciando-containers/certificate
+## Referência:
+https://docs.docker.com/samples/django
+ - 
+# Certificados: 
+[- Docker: criando e gerenciando containers](https://cursos.alura.com.br/user/clubeteczagem/course/docker-criando-gerenciando-containers/certificate)
+[- Google cloud engineer: Parte 1](https://cursos.alura.com.br/user/clubeteczagem/course/google-cloud-engineer-certificacao-parte1/certificate)
+[-Certificação Linux LPI Essentials parte 1: Evolution and Distributions](https://cursos.alura.com.br/user/clubeteczagem/course/linux-essentials-1/certificate)
+[- Certificação Linux LPI Essentials parte 2: Open Source Software and Licensing](https://cursos.alura.com.br/user/clubeteczagem/course/linux-essentials-2/certificate)
+[- Deploy no Amazon EC2: alta disponibilidade e escalabilidade de uma aplicação](https://cursos.alura.com.br/user/clubeteczagem/course/amazon-ec2-disponibilidade-escalabilidade/certificate)
+[- PostgreSQL](https://cursos.alura.com.br/user/clubeteczagem/course/introducao-postgresql-primeiros-passos/certificate)
+[- HTTP: Entendendo a web por baixo dos panos](https://cursos.alura.com.br/user/clubeteczagem/course/http-fundamentos/certificate)
+[- Redes parte 1: conceitos e prática](https://cursos.alura.com.br/user/clubeteczagem/course/redes-introducao/certificate)
