@@ -56,16 +56,16 @@ Nesta segunda etapa colocamos as imagens e containers em nuvem, escolhi para ist
 Para maiores informações acesse: [Alura Challenge DevOps: Semana 2](https://www.alura.com.br/challenges/devops/semana-02-deploy-na-cloud)
 
 ## (Etapa 3 e 4) Semana 03 e 04: Integração e entrega contínua
-Em execução
 
-Para maiores informações acesse: [Alura Challenge DevOps: Semana 3 e 4](https://www.alura.com.br/challenges/devops/semana-03-04-integracao-e-entrega-continua)
+Utilizado como referência:
+
+https://cloud.google.com/source-repositories/docs/automate-app-engine-deployments-cloud-build?hl=pt-br
 
 ## Referência:
 https://docs.docker.com/samples/django
  - 
 # Certificados na plataforma alura: 
 [- Docker: criando e gerenciando containers](https://cursos.alura.com.br/user/clubeteczagem/course/docker-criando-gerenciando-containers/certificate)
-
 [- Google cloud engineer: Parte 1](https://cursos.alura.com.br/user/clubeteczagem/course/google-cloud-engineer-certificacao-parte1/certificate)
 
 [-Certificação Linux LPI Essentials parte 1: Evolution and Distributions](https://cursos.alura.com.br/user/clubeteczagem/course/linux-essentials-1/certificate)
